@@ -1,4 +1,4 @@
-👋 Hi, I’m @Lrrishabh(Rishabh Upadhyay)
+👋 Hi, I’m @Lrrishabh(Rishabh Upadhyay),
 I am an aspiring Web Developer. Proficient in React, and Javascript. Attentive, dynamic, and creative software developer specialized in MERN stack. 
 Eager to support the dev team with top-notch skills at a high-volume company. 
 
